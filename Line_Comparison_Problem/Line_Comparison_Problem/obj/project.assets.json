@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ankush\\Desktop\\Assignment\\LineComparison\\US2\\Line_Comparison_Problem\\Line_Comparison_Problem\\Line_Comparison_Problem.csproj",
+      "projectUniqueName": "C:\\Users\\Ankush\\Desktop\\Assignment\\LineComparison\\UC3\\Line_Comparison_Problem\\Line_Comparison_Problem\\Line_Comparison_Problem.csproj",
       "projectName": "Line_Comparison_Problem",
-      "projectPath": "C:\\Users\\Ankush\\Desktop\\Assignment\\LineComparison\\US2\\Line_Comparison_Problem\\Line_Comparison_Problem\\Line_Comparison_Problem.csproj",
+      "projectPath": "C:\\Users\\Ankush\\Desktop\\Assignment\\LineComparison\\UC3\\Line_Comparison_Problem\\Line_Comparison_Problem\\Line_Comparison_Problem.csproj",
       "packagesPath": "C:\\Users\\Ankush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ankush\\Desktop\\Assignment\\LineComparison\\US2\\Line_Comparison_Problem\\Line_Comparison_Problem\\obj\\",
+      "outputPath": "C:\\Users\\Ankush\\Desktop\\Assignment\\LineComparison\\UC3\\Line_Comparison_Problem\\Line_Comparison_Problem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ankush\\AppData\\Roaming\\NuGet\\NuGet.Config",
